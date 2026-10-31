@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.txt
+!requirements.txt
+
+# Account-specific data & personal tokens (CRITICAL: never commit)
+config.json
+native_profiles/
+backup_profiles/
+profiles/
+
+# Environments & IDEs
+venv/
+.env
+.vscode/
+.idea/

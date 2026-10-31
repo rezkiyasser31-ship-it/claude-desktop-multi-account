@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+      "id": "account_1",
+      "name": "Account 1",
+      "color": "#D97757",
+      "email": ""
+    },
+    {
+      "id": "account_2",
+      "name": "Account 2",
+      "color": "#4A90E2",
+      "email": ""
+    }
+  ],
+  "active_account": "account_1"
+}
